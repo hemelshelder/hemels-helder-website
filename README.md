@@ -1,2 +1,4 @@
 # hemels-helder-website
-website design
+Website design
+
+First time creating a website from scratch.
